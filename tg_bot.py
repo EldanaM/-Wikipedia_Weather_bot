@@ -5,7 +5,7 @@ import wikipedia as wiki
 wiki.set_lang("ru")
 
 latest_updates = 0
-BOT_TOKEN = "8459199288:AAF1Lwnv77d7VvEd1HMcYZP6Qhz38vGghQo"
+BOT_TOKEN = "your BOT_TOKEN "
 DOWNLOAD_FOLDER = os.path.join(os.path.expanduser('~'), 'Downloads')
 
 def get_weather(city):
@@ -128,4 +128,5 @@ def send_message(chat_id, text):
 if __name__ == '__main__':
     print("The bot has been launched")
     while True:
+
         get_updates()
