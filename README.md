@@ -26,6 +26,4 @@ Additional
 - Integrations:  
   - OpenWeatherMap API  
   - Wikipedia API
- 
-  
-  - You can try this bot in the Telegram app
+
