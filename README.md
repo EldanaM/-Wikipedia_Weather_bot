@@ -2,7 +2,7 @@
 
 Smart bot for weather forecasts and Wikipedia searches  
 
-✨ Key Features  
+ Key Features  
 Weather
 - `/weather [city]` - Accurate weather forecast  
 Wikipedia
@@ -15,7 +15,7 @@ Additional
 - `/hello` - Welcome message  
 - `/how_are_you` - Bot status check  
 
-### 🛠 Technologies  
+ Technologies  
 
 - Python 3.8+  
 - Libraries:  
